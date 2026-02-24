@@ -1,0 +1,206 @@
+[{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d22"
+  },
+  "title": "Inception",
+  "date": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "director": "Christopher Nolan",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+  ],
+  "isPremium": true,
+  "view_count": 1250000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d23"
+  },
+  "title": "Interstellar",
+  "date": {
+    "$date": "2014-11-07T00:00:00.000Z"
+  },
+  "genres": [
+    "Science Fiction",
+    "Drama"
+  ],
+  "director": "Christopher Nolan",
+  "actors": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ],
+  "isPremium": false,
+  "view_count": 980000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d24"
+  },
+  "title": "The Dark Knight",
+  "date": {
+    "$date": "2008-07-18T00:00:00.000Z"
+  },
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "director": "Christopher Nolan",
+  "actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "isPremium": true,
+  "view_count": 1500000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d25"
+  },
+  "title": "The Shawshank Redemption",
+  "date": {
+    "$date": "1994-09-23T00:00:00.000Z"
+  },
+  "genres": [
+    "Drama"
+  ],
+  "director": "Frank Darabont",
+  "actors": [
+    "Tim Robbins",
+    "Morgan Freeman"
+  ],
+  "isPremium": false,
+  "view_count": 2000000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d26"
+  },
+  "title": "Pulp Fiction",
+  "date": {
+    "$date": "1994-10-14T00:00:00.000Z"
+  },
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "director": "Quentin Tarantino",
+  "actors": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ],
+  "isPremium": true,
+  "view_count": 1750000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d27"
+  },
+  "title": "The Matrix",
+  "date": {
+    "$date": "1999-03-31T00:00:00.000Z"
+  },
+  "genres": [
+    "Science Fiction",
+    "Action"
+  ],
+  "director": "Lana Wachowski",
+  "actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "isPremium": false,
+  "view_count": 1600000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d28"
+  },
+  "title": "Forrest Gump",
+  "date": {
+    "$date": "1994-07-06T00:00:00.000Z"
+  },
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "director": "Robert Zemeckis",
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright"
+  ],
+  "isPremium": false,
+  "view_count": 1400000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d29"
+  },
+  "title": "Gladiator",
+  "date": {
+    "$date": "2000-05-05T00:00:00.000Z"
+  },
+  "genres": [
+    "Action",
+    "Drama",
+    "Adventure"
+  ],
+  "director": "Ridley Scott",
+  "actors": [
+    "Russell Crowe",
+    "Joaquin Phoenix"
+  ],
+  "isPremium": true,
+  "view_count": 1300000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d2a"
+  },
+  "title": "Titanic",
+  "date": {
+    "$date": "1997-12-19T00:00:00.000Z"
+  },
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "director": "James Cameron",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Kate Winslet"
+  ],
+  "isPremium": true,
+  "view_count": 2200000
+},
+{
+  "_id": {
+    "$oid": "699da69dc07a9a1558c62d2b"
+  },
+  "title": "Avatar",
+  "date": {
+    "$date": "2009-12-18T00:00:00.000Z"
+  },
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "director": "James Cameron",
+  "actors": [
+    "Sam Worthington",
+    "Zoe Saldana"
+  ],
+  "isPremium": true,
+  "view_count": 2100000
+}]
