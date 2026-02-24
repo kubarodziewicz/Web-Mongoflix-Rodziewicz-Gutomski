@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d32"
+  },
+  "username": "movieFan92",
+  "rating": 9.5,
+  "review": "Mind-blowing concept and amazing visuals!",
+  "movie_title": "Inception"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d33"
+  },
+  "username": "spaceLover",
+  "rating": 9,
+  "review": "A beautiful and emotional space journey.",
+  "movie_title": "Interstellar"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d34"
+  },
+  "username": "batmanForever",
+  "rating": 10,
+  "review": "Best superhero movie ever made.",
+  "movie_title": "The Dark Knight"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d35"
+  },
+  "username": "classicCinema",
+  "rating": 9.8,
+  "review": "A timeless masterpiece about hope and friendship.",
+  "movie_title": "The Shawshank Redemption"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d36"
+  },
+  "username": "tarantinoFan",
+  "rating": 8.9,
+  "review": "Brilliant dialogues and nonlinear storytelling.",
+  "movie_title": "Pulp Fiction"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d37"
+  },
+  "username": "neoMatrix",
+  "rating": 9.3,
+  "review": "Revolutionary sci-fi action film.",
+  "movie_title": "The Matrix"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d38"
+  },
+  "username": "romanticSoul",
+  "rating": 8.7,
+  "review": "Very touching and emotional story.",
+  "movie_title": "Forrest Gump"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d39"
+  },
+  "username": "historyBuff",
+  "rating": 8.5,
+  "review": "Epic battles and strong performances.",
+  "movie_title": "Gladiator"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d3a"
+  },
+  "username": "oceanHeart",
+  "rating": 9.1,
+  "review": "A tragic love story with spectacular production.",
+  "movie_title": "Titanic"
+},
+{
+  "_id": {
+    "$oid": "699da7d6c07a9a1558c62d3b"
+  },
+  "username": "pandoraExplorer",
+  "rating": 8.8,
+  "review": "Visually stunning world-building experience.",
+  "movie_title": "Avatar"
+}]
