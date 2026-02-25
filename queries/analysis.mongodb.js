@@ -10,10 +10,6 @@ const categorry_year = db.movie.find({
 
 printjson(categorry_year)
 
-
-
-
-
 print("#2 Lista średnich ocen filmów")
 const average_rating = db.movie.aggregate([
     {$lookup: {from: "reviews", localField: "title", foreignField: "movie_title", as: "review"}},
@@ -23,3 +19,19 @@ const average_rating = db.movie.aggregate([
 ]).toArray()
 
 printjson(average_rating)
+
+
+print("#3 Łączna liczba wyświetleń dla reżyserów")
+const number_views = db.movie.aggregate([
+    {
+        $group: {
+            _id: "$director",
+            total_views: { $sum: "$view_count" }
+        }
+    },
+    {
+        $sort: { total_views: -1 }
+    }
+]).toArray()
+
+printjson(number_views)
