@@ -2,6 +2,18 @@ db = db.getSiblingDB("Movies")
 
 print("--- Analysis --- ")
 
+print("#1 Filmy z kategorii Action po 2000 roku")
+const categorry_year = db.movie.find({
+    date: { $gt: new Date("2000-01-01") },
+    genres: "Action"
+}).toArray()
+
+printjson(categorry_year)
+
+
+
+
+
 print("#2 Lista średnich ocen filmów")
 const average_rating = db.movie.aggregate([
     {$lookup: {from: "reviews", localField: "title", foreignField: "movie_title", as: "review"}},
